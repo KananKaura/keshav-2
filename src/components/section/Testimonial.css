@@ -1,0 +1,37 @@
+.test{
+    margin-left: 20px;
+    text-align: left;
+}
+.line{
+    text-decoration: underline;
+    text-decoration-color: gray;
+    text-underline-offset: 10px;
+    padding-top: 100px;
+    
+}
+.bacl{
+    background:url(./Mask\ Group\ 1.svg);
+    
+    
+}
+.pic{
+    position: absolute;
+    max-width: 30%;
+    max-height: 90%;
+    margin-top: -180px;
+    margin-left: -80px;
+
+    
+
+}
+.pic2{
+    position:absolute;
+    max-width: 30%;
+    max-height: 90%;
+    margin-top: -200px;
+    margin-left: 580px;
+    
+    
+    
+
+}

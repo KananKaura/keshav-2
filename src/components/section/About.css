@@ -1,0 +1,27 @@
+.img2{
+    display:contents;
+}
+.img4{
+    padding-bottom: 20px;
+}
+.line1{
+    text-decoration: none;
+      padding-bottom: 20px;
+      padding-top: 20px;
+  }
+
+  .overlay {
+    position: relative;
+    bottom: 70px;
+    background-color: rgb(0, 6, 81);
+    opacity: 0.21;
+    width: 80px;
+    height: 70px;
+    margin-left: 15px;
+    
+}
+.textlay{
+    color: whitesmoke;
+    font-weight: 600;
+  
+}

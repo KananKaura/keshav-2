@@ -1,0 +1,43 @@
+.mkk {
+    background-image: url(./Mask\ Group\ 1.svg);
+}
+
+.unlist{
+    list-style: none;
+    margin:0;
+    padding:0;
+    position: relative;
+    text-align: left;
+    margin-left: 100px;
+    
+    
+}
+.unlist:before{
+        content:"";
+        display: inline-block;
+        width: 2px;
+        background: grey;
+        position: absolute;
+        left:3px;
+        top:10px;
+        height: calc(100% - 25px );
+    }
+.to{
+      position: relative;
+      padding-left: 15px;
+      margin-bottom:15px;}
+.to:before{
+        content:"";
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background: white;
+        position: absolute;
+        left:0;
+        top:5px;
+        border-radius:10px;
+}
+.setup{
+    
+    padding-bottom: 200px;
+}

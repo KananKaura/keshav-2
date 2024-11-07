@@ -1,0 +1,25 @@
+.line1{
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: aquamarine;
+    text-underline-offset: 10px;
+}
+
+
+.background-image{
+     height: 400px;
+}
+.example img {
+     position:relative;
+     
+}
+
+.overlay {
+    position: relative;
+    bottom: 40px;
+    padding-right: 200px;
+
+}
+.video{
+    height: 30px;
+}

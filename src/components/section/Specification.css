@@ -1,0 +1,49 @@
+.backgro{
+    background:url(./Mask\ Group\ 1.svg);
+}
+
+.prevent{
+    column-count: 2;
+    padding-left: 250px;
+    list-style-type: square;
+}
+
+.tlist{
+    position: relative;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color: grey;
+    text-underline-offset: 5px;  
+    color: white;   
+}
+.tlist1{
+    position: relative;
+    text-align: left;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: grey;
+    padding-top: 120px;
+    color: white;
+}
+ .specs{
+    position: relative;
+    text-align: left;
+    max-width: 335px;
+    padding-top: 35px;
+    color: white;
+ }
+
+.pdf{
+        height: 60px;
+}
+
+.doc{
+    padding-right: 880px;
+    padding-left: 10px;
+    height: 60px;
+}
+
+.don{
+   color: white;
+}
+

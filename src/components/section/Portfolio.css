@@ -1,0 +1,44 @@
+.img1{
+    height: 250px;
+    
+}
+.paper{
+  column-count: 3;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.paper2{
+  column-count: 2;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.bottom-left {
+  position: relative;
+  bottom: 150px;
+}
+.bottom-right{
+  position: relative;
+  
+}
+.img2{
+  height: 250px;
+  padding-left: 40px;
+  
+}
+.img3{
+  height: 250px;
+  width: 300px;
+  
+}
+.img4{
+  height: 250px;
+  
+}
+.img5{
+  height: 250px;
+  
+}

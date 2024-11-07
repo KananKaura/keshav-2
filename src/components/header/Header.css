@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+.logo{
+    height: 100px;
+    margin-left: -40px;
+}
+.logo1{
+    height: 15px;
+}
+.watch{
+    color: white;
+    font-size: "15";
+    font-family: "Montserrat-Medium, Montserrat";
+    font-weight: "400";
+    
+}
+.link{
+    color: white;
+    text-decoration: none;
+    font-size: "14";
+    font-family: "Montserrat-SemiBold, Montserrat";
+    font-weight: "600";
+}
+.links{
+    color: white;
+}
+.underline{
+    height:2px;
+    width:150px;
+    margin-top: -30px;
+}
+.navb{
+    background-image: url(./Mask\ Group\ 2.svg);
+}
+.test{
+    font-size: "56";
+    font-weight: "800";
+    font-family: "Montserrat-ExtraBold, Montserrat";
+    text-decoration: none;
+    color: white;
+    padding-bottom: 100px;
+}
+.lin{
+    color: white;
+    font-family:"Montserrat-SemiBold, Montserrat";
+    font-size: "15";
+    font-weight: "600";
+    letter-spacing: 0.34em;
+}
+.cline{
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.rcorners2{
+    border-radius: 20px;
+        border: 1px solid white;
+         width: 150px;
+        height: 30px; 
+        
+        color: white;}
+.corner{
+    display:flex;
+    justify-content: center;
+    column-gap: 10px;
+   
+}
+
+
